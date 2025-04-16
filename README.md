@@ -1,2 +1,1 @@
-# ecom-website
-my first web page
+A beginner-friendly e-commerce website built with HTML, CSS, and JavaScript
